@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReminderData>
+	<CurrentLanguage>en</CurrentLanguage>
+	<!-- Сохранение текущего языка -->
+	<Reminders>
+		<Reminder>
+			<Title>Title 1</Title>
+			<Comment>Comment 1</Comment>
+			<Link>http://link1.com</Link>
+			<ReminderTime>2024-11-21T15:30:00</ReminderTime>
+		</Reminder>
+		<Reminder>
+			<Title>Title 2</Title>
+			<Comment>Comment 2</Comment>
+			<Link>http://link2.com</Link>
+			<ReminderTime>2024-11-22T18:00:00</ReminderTime>
+		</Reminder>
+	</Reminders>
+</ReminderData>

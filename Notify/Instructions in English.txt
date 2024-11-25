@@ -1,0 +1,7 @@
+Instructions from the Wikoristan supplement
+To create a guess, click on the CREATE button and in the window that opens, set the title and save
+To edit your guess, you need to click on the EDIT button and change the data in the window that opens, you must lose the Title and select the hour
+To see a fortune-telling, you need to click on the empty cell in front of the fortune-telling and then click the VIEW button and the fortune-telling will be deleted
+To change your language, click on the button tune up and then CHANGE MOVIE and save
+To change the autostart status, click on the setup button AUTOSTART and save
+To change the sound of the prediction, click on the BROWSE settings button, select a file with sound in the .wav format and save

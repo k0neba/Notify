@@ -1,0 +1,91 @@
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\Notify.CreateReminderForm.resources
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\Notify.MainForm.resources
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\Notify.csproj.GenerateResource.cache
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\Notify.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\Notify.AssemblyInfoInputs.cache
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\Notify.AssemblyInfo.cs
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\Notify.csproj.CoreCompileInputs.cache
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\Notify.EditReminderForm.resources
+E:\source\Notify\Notify\bin\Debug\net8.0-windows\Notify.exe
+E:\source\Notify\Notify\bin\Debug\net8.0-windows\Notify.deps.json
+E:\source\Notify\Notify\bin\Debug\net8.0-windows\Notify.runtimeconfig.json
+E:\source\Notify\Notify\bin\Debug\net8.0-windows\Notify.dll
+E:\source\Notify\Notify\bin\Debug\net8.0-windows\Notify.pdb
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\Notify.dll
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\refint\Notify.dll
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\Notify.pdb
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\Notify.genruntimeconfig.cache
+E:\source\Notify\Notify\obj\Debug\net8.0-windows\ref\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\Notify.exe
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\Notify.deps.json
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\Notify.runtimeconfig.json
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\Notify.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.CreateReminderForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.EditReminderForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.MainForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.csproj.GenerateResource.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.AssemblyInfoInputs.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.AssemblyInfo.cs
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.csproj.CoreCompileInputs.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\refint\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.genruntimeconfig.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\ref\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\bin\Debug\net8.0-windows\Notify.exe
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\bin\Debug\net8.0-windows\Notify.deps.json
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\bin\Debug\net8.0-windows\Notify.runtimeconfig.json
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\bin\Debug\net8.0-windows\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\bin\Debug\net8.0-windows\Notify.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\Notify.CreateReminderForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\Notify.EditReminderForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\Notify.MainForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\Notify.csproj.GenerateResource.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\Notify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\Notify.AssemblyInfoInputs.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\Notify.AssemblyInfo.cs
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\Notify.csproj.CoreCompileInputs.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\refint\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\Notify.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\Notify.genruntimeconfig.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Notify 2\Notify\obj\Debug\net8.0-windows\ref\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\bin\Debug\net8.0-windows\Notify.exe
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\bin\Debug\net8.0-windows\Notify.deps.json
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\bin\Debug\net8.0-windows\Notify.runtimeconfig.json
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\bin\Debug\net8.0-windows\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\bin\Debug\net8.0-windows\Notify.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.CreateReminderForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.EditReminderForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.MainForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.csproj.GenerateResource.cache
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.AssemblyInfoInputs.cache
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.AssemblyInfo.cs
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.csproj.CoreCompileInputs.cache
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\refint\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.genruntimeconfig.cache
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\ref\Notify.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\Notify.dll.config
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.ReminderNotificationForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.SettingsForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.Properties.Resources.resources
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.Properties.Resources.resources
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.ReminderNotificationForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\obj\Debug\net8.0-windows\Notify.SettingsForm.resources
+C:\Users\Danil\OneDrive\Рабочий стол\6\Notify\Notify\bin\Debug\net8.0-windows\Notify.dll.config
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.csproj.AssemblyReference.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.csproj.ResolveComReference.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Notify\Notify\obj\Debug\net8.0-windows\Notify.csproj.Up2Date
